@@ -1,0 +1,1 @@
+python main.py "nombre_video" --seg
